@@ -1,2 +1,2 @@
 # Harry-potter-clock
-Make you invisible 
+It is python based project which makes the person invisiable infront of screen..
